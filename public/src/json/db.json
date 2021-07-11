@@ -1,0 +1,27 @@
+{
+  "tips-det": [
+    "jangan lupa minum",
+    "makan sesuai porsinya",
+    "stop ngemil"
+  ],
+  "metode-diet": [
+    {
+      "id": 1,
+      "nama": "Diet OCD",
+      "kelebihan": "Cocok untuk orang kurus yang mau sixpack",
+      "deskripsi": "apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang "
+    },
+    {
+      "id": 2,
+      "nama": "Diet Lemak",
+      "kelebihan": "Cocok untuk orang gemuk yang mau kurus",
+      "deskripsi": "apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang "
+    },
+    {
+      "id": 3,
+      "nama": "Diet SJJ",
+      "kelebihan": "Gatau lah ngasal",
+      "deskripsi": "apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang apa aja saya isi disini buat sample ketikan cape saya ngarang jadi saya isi kayak gini deh bang "
+    }
+  ]
+}
